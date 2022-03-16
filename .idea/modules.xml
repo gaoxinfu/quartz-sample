@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quartz-sample.iml" filepath="$PROJECT_DIR$/quartz-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-sample-spring/quartz-sample-spring.iml" filepath="$PROJECT_DIR$/quartz-sample-spring/quartz-sample-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-sample-springboot/quartz-sample-springboot.iml" filepath="$PROJECT_DIR$/quartz-sample-springboot/quartz-sample-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz-sample-standalone/quartz-sample-standalone.iml" filepath="$PROJECT_DIR$/quartz-sample-standalone/quartz-sample-standalone.iml" />
+    </modules>
+  </component>
+</project>
