@@ -1,4 +1,4 @@
-# schedule  全局单例 
+# schedule  全局单例 样例
 
 ```java
   public static void main(String[] args) throws SchedulerException {
