@@ -16,6 +16,6 @@ public class Sample03Job  implements Job {
         String currentDate = DateUtil.format(new Date(), DatePattern.NORM_DATETIME_MS_PATTERN);
         //从jobDetail中获取业务数据
         JobDataMap jobDataMap = context.getJobDetail().getJobDataMap();
-        System.out.println(Sample02Job.class.getSimpleName() + ",currentDate = " + currentDate + ",jobKey = " + context.getJobDetail().getKey());
+        System.out.println(Sample03Job.class.getSimpleName() + ",currentDate = " + currentDate + ",jobKey = " + context.getJobDetail().getKey());
     }
 }
