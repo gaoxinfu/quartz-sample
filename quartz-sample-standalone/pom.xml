@@ -8,7 +8,7 @@
   <artifactId>quartz-sample-standalone</artifactId>
   <version>1.0.0</version>
 
-  <name>quartz-sample-standalone</name>
+  <name>quartz单独样例</name>
   <url>http://www.example.com</url>
 
   <properties>

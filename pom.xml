@@ -14,7 +14,7 @@
     <module>quartz-sample-spring</module>
   </modules>
 
-  <name>quartz-sample</name>
+  <name>quartz样例</name>
   <url>http://www.example.com</url>
 
   <properties>
